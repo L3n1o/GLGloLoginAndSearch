@@ -1,0 +1,549 @@
+[0422/135301.604:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.618:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.622:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.622:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.622:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.623:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.623:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0422/135301.626:ERROR:exception_snapshot_win.cc(98)] thread ID 26012 not found in process
+[0422/135301.631:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.631:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0422/135301.631:ERROR:exception_snapshot_win.cc(98)] thread ID 8392 not found in process
+[0422/135301.618:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0422/135301.633:ERROR:exception_snapshot_win.cc(98)] thread ID 28828 not found in process
+[0422/135301.581:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.641:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.641:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0422/135301.641:ERROR:exception_snapshot_win.cc(98)] thread ID 1896 not found in process
+[0422/135301.643:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.643:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.643:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.643:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.643:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0422/135301.643:ERROR:exception_snapshot_win.cc(98)] thread ID 29552 not found in process
+[0422/135301.596:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.642:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.645:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.645:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.645:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.645:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.646:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.646:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.646:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.646:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.646:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.646:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.646:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.646:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.646:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.646:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.646:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.646:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.647:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/135301.646:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0422/135301.649:ERROR:exception_snapshot_win.cc(98)] thread ID 28716 not found in process
+[0422/135301.647:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0422/135301.650:ERROR:exception_snapshot_win.cc(98)] thread ID 28288 not found in process
+[0422/140124.231:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0422/140124.250:ERROR:exception_snapshot_win.cc(98)] thread ID 14852 not found in process
+[0422/142348.745:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/142348.781:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/142348.781:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/142348.781:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/142348.781:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/142348.784:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/142348.784:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostêpu. (0x5)
+[0422/142348.784:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0422/142348.784:ERROR:exception_snapshot_win.cc(98)] thread ID 27968 not found in process
+[0422/142348.781:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0422/142348.785:ERROR:exception_snapshot_win.cc(98)] thread ID 12552 not found in process
+[0422/142348.779:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0422/142348.787:ERROR:exception_snapshot_win.cc(98)] thread ID 27932 not found in process
+[0422/143528.371:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0422/143528.390:ERROR:exception_snapshot_win.cc(98)] thread ID 16312 not found in process
+[0422/143530.249:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0422/143530.249:ERROR:exception_snapshot_win.cc(98)] thread ID 8504 not found in process
+[0422/143531.060:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0422/143531.060:ERROR:exception_snapshot_win.cc(98)] thread ID 29424 not found in process
+[0422/143531.785:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[0422/143531.785:ERROR:exception_snapshot_win.cc(98)] thread ID 23844 not found in process
+[0429/191908.310:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff650880000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.328:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0429/191908.328:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd507e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.328:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0429/191908.328:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd505c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.328:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0429/191908.328:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4e5e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.328:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0429/191908.328:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6a2c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.328:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\SYSFER.DLL
+[0429/191908.328:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd0cf60000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.328:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\81.0.4044.122\chrome_elf.dll
+[0429/191908.328:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3d830000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.329:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0429/191908.329:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4e890000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.329:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0429/191908.329:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4dc10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.329:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0429/191908.329:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4edd0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.329:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0429/191908.329:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd50700000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.329:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0429/191908.329:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4f150000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.329:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0429/191908.329:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd00f10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.329:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\81.0.4044.122\chrome.dll
+[0429/191908.330:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd50690000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.330:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0429/191908.330:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4e930000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.330:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0429/191908.330:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4dc90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.330:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0429/191908.330:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4dd60000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.330:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0429/191908.330:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd501d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.330:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0429/191908.331:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d8f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.331:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0429/191908.331:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d750000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.331:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0429/191908.331:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d770000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.331:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0429/191908.331:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4cbe0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.331:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0429/191908.331:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4b430000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.331:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0429/191908.332:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3d5c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.332:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0429/191908.332:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d5c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.332:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0429/191908.332:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d6d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.332:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0429/191908.332:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd26060000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.332:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0429/191908.332:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd43360000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.332:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0429/191908.332:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3aee0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.332:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0429/191908.333:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d6b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.333:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0429/191908.333:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4dd30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.333:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0429/191908.333:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd49050000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.333:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0429/191908.333:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd49b10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.333:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0429/191908.333:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd458f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.333:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0429/191908.333:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4eb00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.334:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0429/191908.334:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4b2d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.334:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0429/191908.334:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d950000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.334:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0429/191908.334:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd48490000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.334:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0429/191908.334:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4ed20000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.334:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0429/191908.334:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d590000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.334:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0429/191908.334:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4fab0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.335:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\SHELL32.dll
+[0429/191908.335:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4de60000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.335:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\windows.storage.dll
+[0429/191908.335:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d700000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.335:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\powrprof.dll
+[0429/191908.335:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d6a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.335:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\UMPDC.dll
+[0429/191908.335:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4f050000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.335:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shlwapi.dll
+[0429/191908.335:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4ead0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.335:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\GDI32.dll
+[0429/191908.335:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d8c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.335:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\win32u.dll
+[0429/191908.335:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d9a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.335:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\gdi32full.dll
+[0429/191908.336:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd338d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.336:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\USER32.dll
+[0429/191908.336:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4dbf0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.336:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cryptsp.dll
+[0429/191908.336:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd501a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.336:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\IMM32.DLL
+[0429/191908.336:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d040000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.336:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0429/191908.340:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff650880000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.340:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0429/191908.340:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd507e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.340:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0429/191908.340:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd505c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.340:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0429/191908.341:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4e5e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.341:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0429/191908.341:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6a2c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.341:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\SYSFER.DLL
+[0429/191908.341:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd0cf60000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.341:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\81.0.4044.122\chrome_elf.dll
+[0429/191908.341:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3d830000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.341:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0429/191908.341:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4e890000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.341:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0429/191908.342:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4dc10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.342:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0429/191908.342:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4edd0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.342:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0429/191908.342:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd50700000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.342:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0429/191908.342:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4f150000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.342:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0429/191908.342:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd00f10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.342:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\81.0.4044.122\chrome.dll
+[0429/191908.342:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd50690000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.342:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0429/191908.342:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4e930000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.342:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0429/191908.342:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4dc90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.343:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0429/191908.343:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4dd60000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.343:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0429/191908.343:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd501d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.343:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0429/191908.343:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d8f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.343:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0429/191908.343:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d750000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.343:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0429/191908.343:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d770000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.343:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0429/191908.343:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4cbe0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.343:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0429/191908.343:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4b430000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.343:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0429/191908.343:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3d5c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.344:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0429/191908.344:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d5c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.344:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0429/191908.344:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d6d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.344:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0429/191908.344:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd26060000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.344:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0429/191908.344:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd43360000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.344:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0429/191908.344:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3aee0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.344:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0429/191908.344:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d6b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.344:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0429/191908.344:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4dd30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.344:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0429/191908.344:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd49050000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.345:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0429/191908.345:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd49b10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.345:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0429/191908.345:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd458f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.345:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0429/191908.345:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4eb00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.345:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0429/191908.345:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4b2d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.345:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0429/191908.345:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d950000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.345:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0429/191908.345:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd48490000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.345:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0429/191908.345:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4ed20000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.345:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0429/191908.346:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d590000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.346:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0429/191908.346:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4fab0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.346:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\SHELL32.dll
+[0429/191908.346:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4de60000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.346:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\windows.storage.dll
+[0429/191908.346:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d700000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.346:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\powrprof.dll
+[0429/191908.346:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d6a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.346:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\UMPDC.dll
+[0429/191908.346:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4f050000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.346:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shlwapi.dll
+[0429/191908.346:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4ead0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.346:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\GDI32.dll
+[0429/191908.346:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d8c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.346:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\win32u.dll
+[0429/191908.347:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d9a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.347:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\gdi32full.dll
+[0429/191908.347:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd338d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.347:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\USER32.dll
+[0429/191908.347:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4dbf0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.347:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cryptsp.dll
+[0429/191908.347:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd501a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.347:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\IMM32.DLL
+[0429/191908.347:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d040000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.347:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0429/191908.347:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff650880000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.347:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0429/191908.347:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd507e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.347:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0429/191908.347:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd505c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.347:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0429/191908.348:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4e5e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.348:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0429/191908.348:ERROR:process_memory_win.cc(73)] ReadMemory at 0x6a2c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.348:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\SYSFER.DLL
+[0429/191908.348:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd0cf60000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.348:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\81.0.4044.122\chrome_elf.dll
+[0429/191908.348:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3d830000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.348:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0429/191908.348:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4e890000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.348:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0429/191908.348:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4dc10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.348:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0429/191908.348:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4edd0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.348:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0429/191908.348:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd50700000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.348:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0429/191908.349:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4f150000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.349:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0429/191908.349:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd00f10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.349:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\81.0.4044.122\chrome.dll
+[0429/191908.349:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd50690000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.349:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0429/191908.349:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4e930000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.349:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0429/191908.349:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4dc90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.349:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0429/191908.349:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4dd60000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.349:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0429/191908.349:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd501d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.349:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0429/191908.349:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d8f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.349:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0429/191908.350:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d750000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.350:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0429/191908.350:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d770000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.350:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0429/191908.350:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4cbe0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.350:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0429/191908.350:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4b430000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.350:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0429/191908.350:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3d5c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.350:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0429/191908.350:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d5c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.350:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0429/191908.350:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d6d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.350:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0429/191908.350:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd26060000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.350:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0429/191908.351:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd43360000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.351:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0429/191908.351:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd3aee0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.351:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0429/191908.351:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d6b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.351:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0429/191908.351:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4dd30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.351:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0429/191908.351:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd49050000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.351:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0429/191908.351:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd49b10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.351:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0429/191908.351:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd458f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.351:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0429/191908.351:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4eb00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.351:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0429/191908.351:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4b2d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.352:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0429/191908.352:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d950000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.352:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0429/191908.352:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd48490000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.352:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0429/191908.352:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4ed20000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.352:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0429/191908.352:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d590000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.352:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0429/191908.352:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4fab0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.352:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\SHELL32.dll
+[0429/191908.352:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4de60000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.352:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\windows.storage.dll
+[0429/191908.352:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d700000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.353:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\powrprof.dll
+[0429/191908.353:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d6a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.353:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\UMPDC.dll
+[0429/191908.353:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4f050000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.353:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shlwapi.dll
+[0429/191908.353:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4ead0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.353:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\GDI32.dll
+[0429/191908.353:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d8c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.353:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\win32u.dll
+[0429/191908.353:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d9a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.353:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\gdi32full.dll
+[0429/191908.353:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd338d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.353:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\USER32.dll
+[0429/191908.353:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4dbf0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.353:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cryptsp.dll
+[0429/191908.354:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd501a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.354:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\IMM32.DLL
+[0429/191908.354:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd4d040000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.354:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0429/191908.438:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ed7f5000 of 45056 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.438:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75edffd000 of 12288 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.438:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ee7f6000 of 40960 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.438:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75eeffc000 of 16384 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.438:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ef7fc000 of 16384 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.439:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75efffe000 of 8192 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.439:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75f07fd000 of 12288 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.439:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75f0ffc000 of 16384 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.439:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75f17fd000 of 12288 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.440:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75f1ffd000 of 12288 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.440:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75f27fd000 of 12288 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.440:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75f2ffd000 of 12288 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.440:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75f37fd000 of 12288 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.440:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75f3ffd000 of 12288 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.440:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75f47fd000 of 12288 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.441:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ecfb5000 of 852 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.441:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ecfb6000 of 6024 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.441:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ecfb8000 of 6024 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.441:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ecfba000 of 6024 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.441:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ecfbc000 of 6024 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.441:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ecfbe000 of 6024 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.442:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ecfc0000 of 6024 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.442:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ecfc2000 of 6024 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.442:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ecfc4000 of 6024 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.442:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ecfc6000 of 6024 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.442:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ecfc8000 of 6024 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.442:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ecfca000 of 6024 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.443:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ecfcc000 of 6024 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.443:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ecfce000 of 6024 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.443:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ecfd0000 of 6024 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.443:ERROR:process_memory_win.cc(73)] ReadMemory at 0x75ecfd2000 of 6024 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.443:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c50fe0 of 10020 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.443:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c53710 of 1012 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.444:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c53d58 of 118 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.444:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c53dd0 of 1272 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.444:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c542ca of 118 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.444:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c54342 of 96 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.444:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c543b0 of 58 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.444:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c544b0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c54640 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c54800 of 126 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c54be0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.445:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c54d70 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.446:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c54ed0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.446:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c55060 of 60 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.446:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c551d0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.446:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c55360 of 68 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.446:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c56500 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.447:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c56670 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.447:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c56880 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.447:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c569b0 of 154 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.447:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c58b00 of 60 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.447:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c58b50 of 62 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.447:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c58d40 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.448:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c5f710 of 60 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.448:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c5f990 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.448:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c5fad0 of 62 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.448:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c60ec0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.448:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c61b60 of 80 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.448:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c642f0 of 62 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.448:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c64430 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.449:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c64480 of 62 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.449:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c645c0 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.449:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c64660 of 60 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.449:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c646b0 of 62 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.449:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c64750 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.449:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c64890 of 66 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.449:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c648e0 of 62 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.450:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c64930 of 66 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.450:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c64980 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.450:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c649d0 of 60 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.450:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c64a20 of 62 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.450:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c64ac0 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.450:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c64b10 of 60 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.451:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c64b60 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.451:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c64bb0 of 62 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.451:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c64cf0 of 62 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.451:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c64e30 of 60 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.451:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c64ed0 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.451:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c64f20 of 58 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.451:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c65010 of 62 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.452:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c65060 of 62 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.452:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c65100 of 60 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.452:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c674c0 of 54 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.452:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c68660 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.453:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c68c10 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.453:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c69960 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.456:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c69cc0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.456:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c6a960 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.456:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c6ad50 of 146 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.456:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c6bc40 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.456:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c6bf40 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.457:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c70c00 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.458:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c70d30 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.458:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c70e60 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.458:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c710c0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.458:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c711f0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.458:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c71320 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.459:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c71450 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.459:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c71580 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.459:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c716b0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.459:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c717e0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.459:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c71910 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.459:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c71a40 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.460:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c71eb0 of 78 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.460:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c72510 of 76 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.460:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c72630 of 80 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.460:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c72c20 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.460:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c72d50 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.460:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c72fb0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.461:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c730e0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.461:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c73210 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.461:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c73340 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.461:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c73470 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.461:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c73800 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.461:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c73930 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.462:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c73a60 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.462:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c73b90 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.462:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c73cc0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.462:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c73df0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.462:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c73f20 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.462:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c74050 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.463:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c74180 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.463:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c742b0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.463:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c743e0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.463:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c74510 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.463:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c74640 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.464:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c748a0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.464:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c749d0 of 132 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.464:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c84840 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.464:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c84890 of 66 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.464:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c84c00 of 62 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.464:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c84d90 of 60 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.464:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c85150 of 62 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.465:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c85240 of 58 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.465:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c85420 of 60 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.465:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c854c0 of 58 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.465:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c85650 of 58 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.465:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c85790 of 62 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.465:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c97900 of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.466:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31c9e740 of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.466:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd31f30d00 of 896 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.466:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd323c6520 of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.466:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd323c6a60 of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.466:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd323d0d10 of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.466:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd323e25a0 of 712 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.466:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd323e3ec0 of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.467:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd33db0000 of 384 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.467:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd33db3fb0 of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.467:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd33db9f60 of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.467:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd33ebdc80 of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.467:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1bd33ee8a40 of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.467:ERROR:process_memory_win.cc(73)] ReadMemory at 0x5e68e80b7828 of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.467:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd01dc3218 of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.468:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd02d04030 of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.468:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd0306e3fc of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.468:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd035c8e5c of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.468:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd043e54bf of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.468:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd08799f58 of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.468:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5087c0c4 of 672 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.468:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5087c6c4 of 512 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.469:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5087f974 of 608 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.469:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5090c428 of 18 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.469:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5093f4f8 of 40 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.469:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd5093f978 of 48 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.469:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffd509453c0 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0429/191908.485:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Podjêto próbê uzyskania dostêpu do procesu koñcz¹cego dzia³anie. (0xc000010a)
+[0429/191908.492:ERROR:file_io_win.cc(161)] CreateFile C:\Users\KACPER~1.LEN\AppData\Local\Temp\scoped_dir7564_793716496\Crashpad\settings.dat: Nie mo¿na odnaleŸæ okreœlonego pliku. (0x2)
