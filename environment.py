@@ -46,11 +46,9 @@ def before_scenario(context, scenario):
     # For some reason, python doesn't have switch case -
     # http://stackoverflow.com/questions/60208/replacements-for-switch-statement-in-python
     if BROWSER == 'chrome':
-        context.browser = webdriver.Chrome(executable_path='C:/Users/kacper.lenczuk/PycharmProjects/Python9gagLogin'
-                                                           '/Resources/chromedriver.exe')
+        context.browser = webdriver.Chrome(executable_path='/Resources/chromedriver.exe')
     elif BROWSER == 'firefox':
-        context.browser = webdriver.Firefox(executable_path='C:/Users/kacper.lenczuk/PycharmProjects/Python9gagLogin'
-                                                            '/Resources/geckodriver.exe')
+        context.browser = webdriver.Firefox(executable_path='/Resources/geckodriver.exe')
     #    elif BROWSER == 'safari':
     #       context.browser = webdriver.Safari()
     #    elif BROWSER == 'ie':
